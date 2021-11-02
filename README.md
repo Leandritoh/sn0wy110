@@ -1,19 +1,12 @@
-![avatar2903845_1](https://user-images.githubusercontent.com/83477314/134085638-6e85eccc-7d20-405e-8f72-4fdb724957ec.gif)
+![avatar2903845_1](https://cdn.discordapp.com/avatars/636683882829185046/e19750daa0d07771cd4eb091586b9562.png?size=80)
 
 ### About me
-17yo
+18 Years old
 
-professional assert thrower
-
-god csharp coder
-
-p menu maker
+Professional assert thrower
 
 ### Languages
-C++, C# and currently learning JavaScript
+C++, C# and currently learning Java
 
 ### Games
 CS:GO and Trove
-
-### Actual projects
-Hydra Cheat (CS:GO)
