@@ -7,9 +7,11 @@ un pibe rompe bolas que se la pasa chiteando en csgo
   
 ![](https://komarev.com/ghpvc/?username=twentty-nd&color=blueviolet)
 
-//
-//
-//
+ 
+
+ 
+
+ 
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
