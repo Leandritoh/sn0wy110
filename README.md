@@ -1,8 +1,5 @@
 <img align='center' src='https://cdn.discordapp.com/attachments/896563697340792946/961657489940705340/sbik8kvX.gif' width='97%'>
 
-<h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
-
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apollo.png' height='42px'/>
