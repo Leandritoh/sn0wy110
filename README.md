@@ -1,9 +1,10 @@
 # Hi👋, i'm *twentty*
-- [x] ***PROGRAMMER***
-- [x] ***GAME DEVELOPER***
 
 <!-- Badges -->
 ![](https://komarev.com/ghpvc/?username=twentty-c&color=red)
+
+- [x] ***PROGRAMMER***
+- [x] ***GAME DEVELOPER***
 
 ## **Currently working on**
 > Blessing Eye (2D TopDown RPG Game)
