@@ -14,4 +14,5 @@ Game Engines
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg' height='42px'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg' height='42px'/>
 </p>
