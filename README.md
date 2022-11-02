@@ -2,6 +2,25 @@
 - [x] ***PROGRAMMER***
 - [x] ***GAME DEVELOPER***
 
+<!-- Badges -->
+<p>
+  <a href="https://github.com/twentty-c/twentty-c/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/twentty-c/twentty-c" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/twentty-c/twentty-c" alt="last update" />
+  </a>
+  <a href="https://github.com/twentty-c/twentty-c/network/members">
+    <img src="https://img.shields.io/github/forks/twentty-c/twentty-c" alt="forks" />
+  </a>
+  <a href="https://github.com/twentty-c/twentty-c/stargazers">
+    <img src="https://img.shields.io/github/stars/twentty-c/twentty-c" alt="stars" />
+  </a>
+  <a href="https://github.com/twentty-c/twentty-c/issues/">
+    <img src="https://img.shields.io/github/issues/twentty-c/twentty-c" alt="open issues" />
+  </a>
+</p>
+
 ## **Currently working on**
 > Blessing Eye (2D TopDown RPG Game)
 
