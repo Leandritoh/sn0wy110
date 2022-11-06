@@ -1,7 +1,7 @@
-# Hi👋, i'm *twentty*
+# Hi👋, i'm *sn0wy110*
 
 <!-- Badges -->
-![](https://komarev.com/ghpvc/?username=twentty-c&color=red)
+![](https://komarev.com/ghpvc/?username=sn0wy110&color=red)
 
 - [x] ***PROGRAMMER***
 - [x] ***GAME DEVELOPER***
